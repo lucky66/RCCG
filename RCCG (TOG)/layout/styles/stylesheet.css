@@ -1,0 +1,19 @@
+/* author : Lucky*Rex */
+/*#00b4cc*/
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#logo{
+	text-align: center;
+}
+.r_ccg{
+	font-weight: bolder;
+	font-size: 30px;
+	color: #0081b5 !important;	
+}
+h2.fl_tog{
+	color: rgba(255,2,2,.9)!important;
+	font-weight: bolder;
+}
